@@ -17,7 +17,7 @@ whatever GitHub repo I like, such being
 nixpkgs and wallpkgs.
 
 * Where will you find me?
-- Matrix: @amadaluzia:tchncs.de
-- Discord: @amadaluzia
-- Mastodon (inactvive): @artur@glasgow.social
+- Matrix: `@amadaluzia:tchncs.de`
+- Discord: `@amadaluzia`
+- Mastodon (inactive): `@artur@glasgow.social`
 - You can find my email above.
