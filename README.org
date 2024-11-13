@@ -19,5 +19,5 @@ nixpkgs and wallpkgs.
 * Where will you find me?
 - Matrix: =@amadaluzia:tchncs.de=
 - Discord: =@amadaluzia=
-- Mastodon (inactive): =@artur@glasgow.social=
+- Mastodon (inactive): =@artur@glasgow.social= (this happened to be the only mastodon server in the uk, i am not scottish though.)
 - You can find my email above.
