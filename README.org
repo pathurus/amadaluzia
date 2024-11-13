@@ -1,6 +1,6 @@
 #+title: No actual repos will be on here, instead go to [[https://codeberg.org/amadaluzia][my Codeberg]].
 
-** What happened to amadalusia?
+* What happened to amadalusia?
 Amadalusia is irrecoverable because I
 no longer have the 2FA stuff for it.
 It's a silly mistake that happened while
@@ -8,10 +8,16 @@ installing AOSP on my Pixel. My discord,
 matrix and codeberg are fine because
 I remembered to recover them.
 
-** Why no GitHub?
+* Why no GitHub?
 [[https://nogithub.codeberg.page][file:https://nogithub.codeberg.page/badge.svg]]
 
-** What is this page then?
+*  What is this page then?
 This houses all my contributions to
 whatever GitHub repo I like, such being
 nixpkgs and wallpkgs.
+
+* Where will you find me?
+- Matrix: @amadaluzia:tchncs.de
+- Discord: @amadaluzia
+- Mastodon (inactvive): @artur@glasgow.social
+- You can find my email above.
